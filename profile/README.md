@@ -1,6 +1,6 @@
 # CodeClub
 
-We are a team of 9 members from Iran University of Science and Technology, A collaborative group focused on Management & Intelligent Training application for orgnizations. Here you can see our first web-app for Fitness Clubs Management "Gyms":
+We are a team of 9 members from Iran University of Science and Technology, A collaborative group focused on Management & Intelligent Training application for orgnizations. Here you can see our Web App for Fitness Clubs Management "Gyms":
 
 
 
